@@ -1,15 +1,15 @@
 ## Hey!! 👋
 
-# I'm Nick, and im a software and game developer from the Netherlands
-# I have a lot of passion for programming and I really have fun doing it, thats why I'm always working on something to learn something new
+I'm Nick, and im a software and game developer from the Netherlands
+I have a lot of passion for programming and I really have fun doing it, thats why I'm always working on something to learn something new
 
-# My main lanuguages are:
+My main lanuguages are:
 * Python
 * Luau
 * C#
-# I really like these languages as they're really easy to understand and work with, and they're a great tool to learn from
+I really like these languages as they're really easy to understand and work with, and they're a great tool to learn from
 
-# Currently I make games most of the time, purely because I've always loved games and wanted to make them myself
+Currently I make games most of the time, purely because I've always loved games and wanted to make them myself
 
 
 <!--
