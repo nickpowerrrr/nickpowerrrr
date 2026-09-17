@@ -1,8 +1,8 @@
 <details>
+This content is hidden until clicked.
 <summary><b>English</b> (Click to expand)</summary>
 
 
-This content is hidden until clicked.
 ## Hey!! 👋
 
 I'm Nick, and im a software and game developer from the Netherlands
@@ -24,6 +24,9 @@ Currently I make games most of the time, purely because I've always loved games 
 
 <details>
 <summary><b>Nederlands</b> (Klik om te openen)</summary>
+
+  
+
 ## Hoi!! 👋
 
 Ik ben Nick, en ik ben een software en game developer
@@ -41,7 +44,6 @@ Ik vindt het heel fijn om deze programmeertalen te gebruiken omdat ik er veel va
 Ik maak zelf grotendeels games, omdat ik zelf games al heel lang leuk vindt en er zelf ook graag wil gaan maken
 
 
-## Welkom
-Deze inhoud is verborgen totdat er op wordt geklikt.
+
 
 </details>
