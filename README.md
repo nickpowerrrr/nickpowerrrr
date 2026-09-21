@@ -43,7 +43,7 @@ Ik vindt het heel fijn om deze programmeertalen te gebruiken omdat ik er veel va
 
 Ik maak zelf grotendeels games, omdat ik zelf games al heel lang leuk vindt en er zelf ook graag wil gaan maken
 
-
+Mijn projecten staan wel vaak in het Engels, dus sorry als je het moet translaten..
 
 
 </details>
