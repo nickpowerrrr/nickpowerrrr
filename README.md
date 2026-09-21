@@ -1,5 +1,4 @@
 <details>
-This content is hidden until clicked.
 <summary><b>English</b> (Click to expand)</summary>
 
 
